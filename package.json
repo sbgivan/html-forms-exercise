@@ -1,0 +1,14 @@
+{
+  "name": "html-forms-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tyler Garlick <tgarlick@heliotraining.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "start": "http-server ."
+  }
+}

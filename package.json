@@ -10,5 +10,15 @@
   },
   "scripts": {
     "start": "http-server ."
-  }
+  },
+  "description": "> Introduction to HTML forms",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbgivan/html-forms-exercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sbgivan/html-forms-exercise/issues"
+  },
+  "homepage": "https://github.com/sbgivan/html-forms-exercise#readme"
 }

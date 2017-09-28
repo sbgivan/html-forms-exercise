@@ -2,9 +2,11 @@ html, body {
   margin: 20px;
   padding: 0;
   font-family: 'Roboto', sans-serif;
-border: 2px dotted green;
+  font-size: 20px;
 }
-
+html{
+  background:linear-gradient(45deg, blue, red);
+}
 section, footer{
   display: inline-flex;
   padding: 10px;
